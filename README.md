@@ -1,5 +1,10 @@
 # Japanese Keyboard VR
 
+xxx現在改修中の為使えませんxxx
+
+
+
+
 SteamVR上で動作する日本語入力キーボードアプリケーションです。
 
 ## 機能
